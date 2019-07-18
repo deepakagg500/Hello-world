@@ -5,7 +5,6 @@ int main()
  int t;
  cin>>t;
  cout<<t<<endl;
- cout<<"Hello world"<<endl;
- cout<<"let us make some changes and then i will compare it"<<endl;
+ cout<<"let us try";
  return 0;
  }
